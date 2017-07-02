@@ -1,0 +1,14 @@
+files/in.v
+files/out.v
+files/ref_adder.v
+files/comp.v
+../rtl/cra/full_adder.v
+../rtl/cra/half_adder.v
+../rtl/cra/half_addercin1.v
+../rtl/cra/cra4bits.v
+../rtl/cra/cra4bitscin0.v
+../rtl/cra/cra4bitscin1.v
+../rtl/csa/mux2to1.v
+../rtl/csa/csa.v
+../rtl/csa/csa64bits.v
+files/csa/testbench_csa64bits.v

@@ -1,0 +1,14 @@
+files/in.v
+files/out.v
+files/ref_adder.v
+files/comp.v
+../rtl/cra/full_adder.v
+../rtl/cra/half_adder.v
+../rtl/cra/cra4bits.v
+../rtl/a1csa/rb0.v
+../rtl/a1csa/rb1.v
+../rtl/a1csa/rb2.v
+../rtl/a1csa/rb3.v
+../rtl/a1csa/a1csa.v
+../rtl/a1csa/a1csa8bits.v
+files/a1csa/testbench_a1csa8bits.v

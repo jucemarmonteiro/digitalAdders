@@ -1,0 +1,8 @@
+files/in.v
+files/out.v
+files/ref_adder.v
+files/comp.v
+../rtl/cra/full_adder.v
+../rtl/cra/cra4bits.v
+../rtl/cra/cra8bits.v
+files/cra/testbench_cra8bits.v
